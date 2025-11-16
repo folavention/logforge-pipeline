@@ -1,1 +1,0 @@
-# Contains DB Connection and Schema, and insertion logic
